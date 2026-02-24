@@ -1,0 +1,5 @@
+numpy
+pandas
+selenium
+openpyxl
+webdriver-manager
